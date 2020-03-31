@@ -72,7 +72,7 @@ Para instalar o SDK no seu projeto<a href="http://maven.apache.org/install.html"
 <dependency>
 		    <groupId> com.mercadopago </groupId>
 		    <artifactId> dx-java </artifactId>
-		    <version> 1.0.33 </version>
+		    <version> 1.5.2 </version>
 </dependency>
 ```
 ```ruby
